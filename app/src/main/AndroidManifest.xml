@@ -10,10 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CazarPatos.Personalizado">
         <activity
-            android:name=".LoginActivity"
+            android:name=".RankingActivity"
             android:exported="false" />
         <activity
-            android:name=".RankingActivity"
+            android:name=".LoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
